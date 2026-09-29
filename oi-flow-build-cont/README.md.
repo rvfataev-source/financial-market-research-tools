@@ -1,0 +1,29 @@
+# OI + FLOW BUILD_CONT
+
+Research project focused on continuation setups in Binance Futures based on the interaction between price shocks, Open Interest expansion, and aggressive taker flow.
+
+## Overview
+
+This project explored whether abnormal price moves combined with Open Interest growth and taker order flow could indicate continuation rather than mean reversion.
+
+## Research Scope
+
+- Historical market data processing
+- Open Interest analysis
+- Taker flow analysis
+- Automated signal generation
+- Out-of-sample backtesting
+- Transaction cost modeling
+- Execution delay testing
+- Risk and performance analysis
+- Shadow monitoring of live market conditions
+
+## Findings
+
+Under historical out-of-sample testing with transaction costs and execution delays modeled, the approach retained positive performance characteristics.
+
+## Purpose
+
+The objective was to test whether positioning and flow data could be structured into a measurable continuation signal under realistic execution assumptions.
+
+> This project is intended for research and educational purposes only.
